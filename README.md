@@ -1,2 +1,1 @@
-# NNforStructuredClustering
-Neural Networks for Structured Clustering
+#Neural Networks for Structured Clustering
